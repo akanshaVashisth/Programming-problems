@@ -1,4 +1,4 @@
-# Programming-problems
+# Programming problems
 
 1. Linear Search(in python)
 2. Binary Search(in python)
